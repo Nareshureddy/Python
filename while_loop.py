@@ -2,7 +2,7 @@ import sys
 
 i = 1
 
-while i <= 50:
+while i <= 10:
     print("Naresh",end="")
     j = 1
     while j <= 1:
