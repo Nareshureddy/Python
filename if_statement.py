@@ -1,9 +1,9 @@
 import sys
 
-x = int(input("Enter the x Value: "))
-y = int(input("Enter the y Value: "))
+x = int(input("Enter the X value: "))
+y = int(input("Enter the Y value: "))
 
-if (x>y):
+if (x > y):
 	print("X is greater")
 else:
 	print("Y is Greater")
